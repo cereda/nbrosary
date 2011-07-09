@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: net.sf.nbrosary
+OpenIDE-Module-Layer: net/sf/nbrosary/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/sf/nbrosary/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+
